@@ -1,0 +1,52 @@
+body{
+    background-color:lightgrey;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration:underline; 
+}
+
+.tabheader{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:28px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    color:black;
+}
+
+.favcolors{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:14px;
+    font-weight: bold;
+    font-style: italic;
+    color:black;
+}
+
+.tableauPlaceholder{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
+.commonFooter{
+    height:50px;
+    line-height:50px;
+    text-align: center;
+    background-color: #DBC0A7;
+    width:100%;
+}
+
+.image{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border:5px solid #DBC0A7;
+}
+
+.hypercraft{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width:fit-content;
+}
